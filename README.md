@@ -1,5 +1,5 @@
 # TODO App
-TAP **[PREVIEW LINK](________________)** TO SEE DEMO
+TAP **[PREVIEW LINK](https://andriifront.github.io/redux-ts-react-articleManager/)** TO SEE DEMO
 
 
 ## Technologies
@@ -9,12 +9,12 @@ TAP **[PREVIEW LINK](________________)** TO SEE DEMO
 
 
 ## Code Description and Features
-This is an organizer app. Here you can create and manage a articles list.
+This is an app, where you can create and delete articles.
 
 
 ## Links
 Theory: [link](https://www-freecodecamp-org.cdn.ampproject.org/v/s/www.freecodecamp.org/news/how-to-use-redux-in-your-react-typescript-app/amp/?amp_gsa=1&amp_js_v=a9&usqp=mq331AQKKAFQArABIIACAw%3D%3D#create-the-types=&ampshare=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fhow-to-use-redux-in-your-react-typescript-app%2F)
-WebPage: [link](_______________)
+WebPage: [link](https://andriifront.github.io/redux-ts-react-articleManager/)
 Code: [link](https://github.com/andriiFront/redux-ts-react-articleManager)
 
 
