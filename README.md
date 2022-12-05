@@ -1,4 +1,4 @@
-# TODO App
+# ArticleManager App
 TAP **[PREVIEW LINK](https://andriifront.github.io/redux-ts-react-articleManager/)** TO SEE DEMO
 
 
